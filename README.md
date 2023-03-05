@@ -3,9 +3,8 @@ Using concept of passing data between App Activitys Heads or Tails
 
 ##Example
 =======
-
-<img width="175" alt="SwipeableRecyclerView" src="https://github.com/AlanAndCode/CaraOuCoroaApp/blob/main/app/src/main/res/drawable/extoplay.jpg">  
-<img width="175" alt="SwipeableRecyclerView" "https://github.com/AlanAndCode/CaraOuCoroaApp/blob/main/app/src/main/res/drawable/explay.jpg"> 
+<img align="left" width="100" height="100" src="https://github.com/AlanAndCode/CaraOuCoroaApp/blob/main/app/src/main/res/drawable/extoplay.jpg">
+<img align="right" width="100" height="100" "https://github.com/AlanAndCode/CaraOuCoroaApp/blob/main/app/src/main/res/drawable/explay.jpg">
 
 
 
